@@ -3,7 +3,7 @@
     <p>
       <?php
         $a = 1
-        echo $a
+        echo $a;
       ?>
     </p>
   </body>
